@@ -1,0 +1,37 @@
+html {
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+}
+
+.uni {
+    width: 150px;
+    height: 150px;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.5px;
+}
